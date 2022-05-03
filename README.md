@@ -14,3 +14,12 @@ Supported Teams:
 - Man Utd
 - Leicester City
 - Aston Villa
+
+#### App Screenshots
+
+<table>
+    <tr>
+        <td><img src="Screenshots/screenshot_1.png"></td>
+        <td><img src="Screenshots/screenshot_2.png"></td>
+    </tr>
+</table>
