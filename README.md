@@ -23,3 +23,5 @@ Supported Teams:
         <td><img src="Screenshots/screenshot_2.png"></td>
     </tr>
 </table>
+
+<a href="https://www.producthunt.com/posts/pl-news-2?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-pl&#0045;news&#0045;2" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=345394&theme=dark" alt="PL&#0032;News - Premier&#0032;League&#0044;&#0032;News&#0044;&#0032;Football&#0044;&#0032;Liverpool&#0044;&#0032;Football&#0032;News | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
