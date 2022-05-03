@@ -3,7 +3,7 @@ Premier League News app in iOS
 
 This repository contains the full source code for PL News, an iOS sports news app for each user enjoys to watch the Premier League.
 
-![https://apps.apple.com/us/app/pl-news/id1620780833](Screenshots/app_store_connect_badge.svg)
+[![PL News on App Store Connect](Screenshots/app_store_connect_badge.svg)](https://apps.apple.com/us/app/pl-news/id1620780833)
 
 PL News - Blog
 
