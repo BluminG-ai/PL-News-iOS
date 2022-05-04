@@ -21,6 +21,32 @@ Supported Teams:
     <tr>
         <td><img src="Screenshots/screenshot_1.png"></td>
         <td><img src="Screenshots/screenshot_2.png"></td>
+        <td><img src="Screenshots/screenshot_3.png"></td>
+    </tr>
+    <tr>
+        <td><img src="Screenshots/screenshot_4.png"></td>
+        <td><img src="Screenshots/screenshot_5.png"></td>
+        <td><img src="Screenshots/screenshot_6.png"></td>
+    </tr>
+    <tr>
+        <td><img src="Screenshots/screenshot_7.png"></td>
+        <td><img src="Screenshots/screenshot_8.png"></td>
+        <td><img src="Screenshots/screenshot_9.png"></td>
+    </tr>
+    <tr>
+        <td><img src="Screenshots/screenshot_10.png"></td>
+        <td><img src="Screenshots/screenshot_11.png"></td>
+        <td><img src="Screenshots/screenshot_12.png"></td>
+    </tr>
+    <tr>
+        <td><img src="Screenshots/screenshot_13.png"></td>
+        <td><img src="Screenshots/screenshot_14.png"></td>
+        <td><img src="Screenshots/screenshot_15.png"></td>
+    </tr>
+    <tr>
+        <td><img src="Screenshots/screenshot_16.png"></td>
+        <td><img src="Screenshots/screenshot_17.png"></td>
+        <td><img src="Screenshots/screenshot_18.png"></td>
     </tr>
 </table>
 
